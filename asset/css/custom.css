@@ -1,0 +1,83 @@
+@media (max-width: 600px){
+            .sm-hide{
+                display: none;
+            }
+       }
+
+.wd{
+	width: 101.2%;
+}
+.bg-blue, .btn-blue{
+            background-color: #116;
+
+}
+.bg-black{
+	background-color: #000;
+}
+.bg-ccc{
+	background-color: #ccc;
+}
+.bg-eee{
+	background-color: #eee;
+}
+.font-light{
+	font-family: Yu Gothic Light;
+}
+.font-arial{
+	font-family: arial light;
+}
+.fs-12{
+	font-size: 12px;
+}
+.fs-14{
+	font-size: 14px;
+}
+.fs-16{
+	font-size: 16px;
+}
+.fs-18{
+	font-size: 18px;
+}
+.fs-20{
+	font-size: 20px;
+}
+.fs-24{
+	font-size: 24px;
+}
+ .text-blue{
+ 	color: #116;
+ }
+ .text-red{
+ 	color: #f00;
+ }
+ .text-bold{
+ 	font-weight: bold;
+ 	color: #469;
+ 	font-size: 14px;
+ }
+ .text-bold-16{
+ 	font-weight: bold;
+ 	color: #469;
+ 	font-size: 16px;
+ }
+ .text-aaa{
+ 	color: #aaa;
+ }
+ .text-666{
+ 	color: #666;
+ }
+ .text-999{
+ 	color: #999;
+ }
+ .text-black{
+ 	color: black;
+ }
+ .text-lightdark{
+ 	color: #aaa;
+ }
+ .border-radius{
+ 	border-radius: 5px;
+ }
+ /*.hvr-shadow2 :hover{
+ 	box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+ }*/
